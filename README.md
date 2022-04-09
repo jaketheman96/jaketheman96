@@ -20,7 +20,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![snake gif](https://github.com/jaketheman96/jaketheman96/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/jaketheman96/jaketheman96/blob/output/github-contribution-grid-snake.svg)
   
 ### 🚀🚀 #VQV 🚀🚀
 
