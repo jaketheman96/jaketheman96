@@ -1,6 +1,6 @@
 
-<h2> 🚀🚀 Jake Chien na área!!!!! 🚀🚀 </h2>
-<div align="justify">
+<h2> 🚀🚀 Jaketheman na área!!!!! 🚀🚀 </h2>
+<div>
 <ul>
   <li>Olá gente, me chamo Jake Chien.</li>
   <li>Tenho 24 anos.</li>
@@ -9,7 +9,7 @@
 </ul>
   
 ![Jake GitHub stats](https://github-readme-stats.vercel.app/api?username=jaketheman96&show_icons=true&theme=tokyonight)
-<img alt="gif ursinho" src="bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq.gif" height="190px" width="180px" align="left">
+<img alt="gif ursinho" src="bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq.gif" height="190px" width="180px" margin-left="50px">
 </div>
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
