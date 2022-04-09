@@ -9,14 +9,13 @@
 </ul>
   
 ![Jake GitHub stats](https://github-readme-stats.vercel.app/api?username=jaketheman96&show_icons=true&theme=tokyonight)
- </div>
+<img alt="gif ursinho" src="bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq.gif" height="190px" width="180px" align="left">
+</div>
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
-![bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq](https://user-images.githubusercontent.com/78574045/162556556-340b5309-bedc-4c03-9549-724cfcd98ad0.gif)
 
 #### 🚀🚀 Estudante de desenvolvimento web na Trybe! #VQV 🚀🚀
 
