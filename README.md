@@ -1,6 +1,5 @@
 
 <h2 align="center"> 🚀🚀 Jake Chien na área!!!!! 🚀🚀 </h2>
-<br>
 
 <div align="center">
   
@@ -11,9 +10,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
- ![bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq](https://user-images.githubusercontent.com/78574045/162556556-340b5309-bedc-4c03-9549-724cfcd98ad0.gif)
-
-<br>
+![bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq](https://user-images.githubusercontent.com/78574045/162556556-340b5309-bedc-4c03-9549-724cfcd98ad0.gif)
 
 #### 🚀🚀 Estudante de desenvolvimento web na Trybe! #VQV 🚀🚀
 
