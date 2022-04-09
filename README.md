@@ -8,7 +8,7 @@
   <li>Atualmente estudando desenvolvimento web na Trybe.</li>
 </ul>
   
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/jaketheman96">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jaketheman96&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     
 <img alt="gif ursinho" src="bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq.gif" height="190px" width="180px" align="center">
