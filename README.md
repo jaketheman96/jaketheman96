@@ -16,4 +16,7 @@
 ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 
+![](pixel_rex-Victor_Cinq-Mars_gif (350×350).gif)
+  
+ 
 #### 🚀🚀 Estudante de desenvolvimento web na Trybe! #VQV 🚀🚀
