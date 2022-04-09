@@ -23,7 +23,8 @@
 ![Snake animation](https://github.com/jaketheman96/jaketheman96/blob/output/github-contribution-grid-snake.svg)
   
 ### 🚀🚀 #VQV 🚀🚀
-
+  
+<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-chien-70aa0a1b2/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jakechien/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jakechienn)
