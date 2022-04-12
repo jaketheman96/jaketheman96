@@ -11,12 +11,16 @@
   <a href="https://github.com/jaketheman96">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jaketheman96&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaketheman96&layout=compact&langs_count=7&theme=react" />
- 
+
+<hr>
+    
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+  
 <img alt="gif cobra github" src="https://github.com/jaketheman96/jaketheman96/blob/output/github-contribution-grid-snake.svg" margin-left="0">
 
 ### 🚀🚀 #VQV 🚀🚀
