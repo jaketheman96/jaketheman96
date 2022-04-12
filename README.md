@@ -10,8 +10,7 @@
   
   <a href="https://github.com/jaketheman96">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jaketheman96&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    
-<img alt="gif ursinho" src="bc3c3e1641a0cf730b2f3cbe1031fd3b079544cc_hq.gif" height="190px" width="180px" align="center">
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaketheman96&layout=compact&langs_count=7&theme=react" />
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
