@@ -1,6 +1,6 @@
 
 <h2> 🚀🚀 Jaketheman na área!!!!! 🚀🚀 </h2>
-<div>
+
 <ul>
   <li>Olá gente, me chamo Jake Chien.</li>
   <li>Tenho 25 anos.</li>
@@ -8,14 +8,12 @@
   <li>Atualmente estudando desenvolvimento web na Trybe.</li>
 </ul>
   
- <div> 
+  <div align="center">
   <a href="https://github.com/jaketheman96">
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jaketheman96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaketheman96&layout=compact&langs_count=7&theme=react" />
-    </div>
+  <img height="140em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jaketheman96&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaketheman96&layout=compact&langs_count=7&theme=react" />
+   
 <hr>
-    
-<div align="center">
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
