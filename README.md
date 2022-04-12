@@ -8,10 +8,11 @@
   <li>Atualmente estudando desenvolvimento web na Trybe.</li>
 </ul>
   
+ <div> 
   <a href="https://github.com/jaketheman96">
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jaketheman96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaketheman96&layout=compact&langs_count=7&theme=react" />
-
+    </div>
 <hr>
     
 <div align="center">
