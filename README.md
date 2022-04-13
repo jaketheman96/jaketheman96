@@ -1,8 +1,8 @@
 
-<h2> 🚀🚀 Jaketheman na área!!!!! 🚀🚀 </h2>
+<h2> 🚀🚀 Hello there, 🚀🚀 </h2>
 
 <ul>
-  <li>Olá gente, me chamo Jake Chien.</li>
+  <li>Me chamo Jake Chien.</li>
   <li>Tenho 25 anos.</li>
   <li>Apaixonado por tecnologia desde pequeno.</li>
   <li>Atualmente estudando desenvolvimento web na Trybe.</li>
