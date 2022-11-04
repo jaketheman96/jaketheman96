@@ -27,7 +27,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
-<img alt="gif cobra github" src="https://github.com/jaketheman96/jaketheman96/blob/output/github-contribution-grid-snake.svg" margin-left="0">
+<!-- <img alt="gif cobra github" src="https://github.com/jaketheman96/jaketheman96/blob/output/github-contribution-grid-snake.svg" margin-left="0"> -->
 
 ### 🚀🚀 #VQV 🚀🚀
 <br>
