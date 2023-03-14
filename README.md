@@ -1,12 +1,32 @@
+<div
+     align="center"
+     >
+<img 
+     src="https://user-images.githubusercontent.com/78574045/225020734-d72ec0ea-24f9-47f5-b2e3-028524685c6f.png" 
+     alt="jake's logo"
+     width="270px"
+     />
+<hr>
+<p>
+Olá, meu nome é Jake Chien.
 
-<h2> 🚀🚀 Hello there, 🚀🚀 </h2>
-
-<ul>
-  <li>Me chamo Jake Chien.</li>
-  <li>Tenho 26 anos.</li>
-  <li>Apaixonado por tecnologia desde pequeno.</li>
-  <li>Atualmente estudando desenvolvimento web na Trybe.</li>
-</ul>
+Sou apaixonado por tecnologia desde pequeno e atualmente estou em uma transição de carreira para o ramo de desenvolvimento Web Full-Stack. Possuo as soft skills bem trabalhadas do meu último emprego e estou cursando a Trybe, onde estou gradualmente evoluindo as minhas hard skills assim como as soft skills, realizei vários projetos desde fundamentos de desenvolvimento web, passando por front-end, back-end e agora em CS (Computer Science).
+</p>
+  
+<!--  [![Linkedin](https://user-images.githubusercontent.com/78574045/225026940-e44d3145-eebb-4e9b-b531-f65b215d8a75.png)](https://www.linkedin.com/in/jake-chien-70aa0a1b2/)
+[![](https://user-images.githubusercontent.com/78574045/225026927-15b5fad6-e321-46a0-9baf-d2ef23df2f56.png)](https://www.instagram.com/jakechien/)
+[![Twitch](https://user-images.githubusercontent.com/78574045/225026912-464a0f86-e96e-4cd4-bfdd-29a07f7f8be9.png)](https://www.twitch.tv/jakechienn) -->
+  <a href="https://www.linkedin.com/in/jake-chien">
+    <img src="https://user-images.githubusercontent.com/78574045/225026940-e44d3145-eebb-4e9b-b531-f65b215d8a75.png" alt="linkedin icon" width="45px" />
+  </a> 
+  <a href="https://www.instagram.com/jakechien/">
+    <img src="https://user-images.githubusercontent.com/78574045/225026927-15b5fad6-e321-46a0-9baf-d2ef23df2f56.png" alt="instagram icon" width="45px" />
+  </a>
+  <a href="https://www.twitch.tv/jakechienn">
+    <img src="https://user-images.githubusercontent.com/78574045/225026912-464a0f86-e96e-4cd4-bfdd-29a07f7f8be9.png" alt="twitch icon" width="45px" />
+  </a>
+  
+</div>
   
   <div align="center">
   <a href="https://github.com/jaketheman96">
@@ -14,7 +34,7 @@
   <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaketheman96&layout=compact&langs_count=7&theme=react" />
    
 <hr>
-  
+    
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -34,12 +54,6 @@
   
 <!-- <img alt="gif cobra github" src="https://github.com/jaketheman96/jaketheman96/blob/output/github-contribution-grid-snake.svg" margin-left="0"> -->
 
-### 🚀🚀 #VQV 🚀🚀
-<br>
-  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-chien-70aa0a1b2/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jakechien/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jakechienn)
     
       jake_chien@outlook.com
 </div>
