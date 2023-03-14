@@ -12,10 +12,6 @@ Olá, meu nome é Jake Chien.
 
 Sou apaixonado por tecnologia desde pequeno e atualmente estou em uma transição de carreira para o ramo de desenvolvimento Web Full-Stack. Possuo as soft skills bem trabalhadas do meu último emprego e estou cursando a Trybe, onde estou gradualmente evoluindo as minhas hard skills assim como as soft skills, realizei vários projetos desde fundamentos de desenvolvimento web, passando por front-end, back-end e agora em CS (Computer Science).
 </p>
-  
-<!--  [![Linkedin](https://user-images.githubusercontent.com/78574045/225026940-e44d3145-eebb-4e9b-b531-f65b215d8a75.png)](https://www.linkedin.com/in/jake-chien-70aa0a1b2/)
-[![](https://user-images.githubusercontent.com/78574045/225026927-15b5fad6-e321-46a0-9baf-d2ef23df2f56.png)](https://www.instagram.com/jakechien/)
-[![Twitch](https://user-images.githubusercontent.com/78574045/225026912-464a0f86-e96e-4cd4-bfdd-29a07f7f8be9.png)](https://www.twitch.tv/jakechienn) -->
   <a href="https://www.linkedin.com/in/jake-chien">
     <img src="https://user-images.githubusercontent.com/78574045/225026940-e44d3145-eebb-4e9b-b531-f65b215d8a75.png" alt="linkedin icon" width="45px" />
   </a> 
@@ -25,8 +21,9 @@ Sou apaixonado por tecnologia desde pequeno e atualmente estou em uma transiçã
   <a href="https://www.twitch.tv/jakechienn">
     <img src="https://user-images.githubusercontent.com/78574045/225026912-464a0f86-e96e-4cd4-bfdd-29a07f7f8be9.png" alt="twitch icon" width="45px" />
   </a>
-  
 </div>
+
+  <br>
   
   <div align="center">
   <a href="https://github.com/jaketheman96">
